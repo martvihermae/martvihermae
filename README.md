@@ -1,49 +1,52 @@
 # Hi, I'm Mart 👋
 
-💻 Full-stack developer in training at Kood Jõhvi, with an interest in DevOps, backend systems, and game development.
+I'm a Kood Jõhvi alumnus with a background in full-stack development, Java, and DevOps. I enjoy building applications, solving technical problems, and exploring how software works — from backend systems and infrastructure automation to interactive game experiences.
 
-I enjoy building practical applications, exploring new technologies, and experimenting with interactive experiences using Unreal Engine.
+I'm open to opportunities across **software development, DevOps, and game development**, particularly with Unreal Engine or Roblox Studio.
 
-📍 Estonia | Open to junior developer opportunities in Estonia and remotely
+📍 Estonia | Open to local and remote opportunities
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying Full-Stack Development at Kood Jõhvi, with a focus on DevOps
-- 🌐 Interested in full-stack web development, backend systems, and APIs
-- ⚙️ Exploring DevOps, containerization, automation, and monitoring
-- 🎮 Hobbyist game developer using Unreal Engine, Blender, and Roblox Studio
+- 🎓 Kood Jõhvi alumnus — completed Java, Application Development, and DevOps modules
+- 🌐 Interested in full-stack development, backend systems, and API development
+- ⚙️ Experienced through hands-on projects with containerization, CI/CD, infrastructure automation, and monitoring
+- 🎮 Passionate about game development with Unreal Engine and Roblox Studio
+- 🧊 Interested in interactive systems, gameplay mechanics, and 3D workflows using Blender
 - 🎓 Bachelor's degree in *Maamajanduslik ettevõtlus- ja finantsjuhtimine*
+- 💼 Open to junior and entry-level opportunities in software development, DevOps, and game development
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- HTML, CSS, JavaScript
-- React
+**Languages**
+- Java, JavaScript, TypeScript, PHP, SQL, Luau
 
-**Backend**
-- Java, Spring Boot
+**Frontend & Backend**
+- React, HTML, CSS
 - Node.js, Express.js, Socket.IO
-- PHP, WordPress plugin development
-
-**Databases & APIs**
-- SQL
-- REST APIs
-- Payment API integration
+- Spring Boot
+- REST APIs, GraphQL
 
 **DevOps & Infrastructure**
 - Linux, Docker, Kubernetes
-- Ansible, Terraform, Argo CD
-- Jenkins, GitLab
+- Ansible, Terraform
+- Argo CD, Helm
+- Jenkins, GitLab CI/CD
 - Prometheus, Grafana, ELK Stack
+
+**Databases & Development**
+- Relational databases and SQL
+- Authentication and real-time communication
+- Automated testing and API integration
 
 **Game Development & 3D**
 - Unreal Engine
-- Blender
-- Roblox Studio, Luau
+- Roblox Studio
+- Blender — modeling, rigging, and animation
 
 **Tools**
 - Git
@@ -52,37 +55,47 @@ I enjoy building practical applications, exploring new technologies, and experim
 
 ## 🚀 Featured Projects
 
-### 🌐 Web Development
+### 🌐 Web & Application Development
 
 **WordPress Booking Plugin**
 - Developed a custom booking plugin using PHP and WordPress
 - Integrated the Maksekeskus payment API
-- Built around a practical business use case
+- Focused on practical business functionality and payment integration
 
-**Full-Stack School Projects**
-- Developed REST APIs using Spring Boot and Node.js
-- Built database-backed applications using SQL
-- Practiced backend architecture and application development
+**Application Development Projects — Kood Jõhvi**
+- Built Java and Spring Boot backend applications
+- Developed JavaScript and TypeScript applications
+- Worked on real-time communication, recommendation systems, and web game projects
+
+### ⚙️ DevOps & Infrastructure
+
+**DevOps Projects — Kood Jõhvi**
+- Practiced infrastructure automation and configuration management
+- Worked with Docker and Kubernetes for containerization and orchestration
+- Explored CI/CD pipelines, monitoring, logging, and GitOps workflows
+- Used Terraform, Helm, and Argo CD in infrastructure and deployment projects
 
 ### 🎮 Game Development
 
-**Unreal Engine Experiments**
-- Prototyping gameplay mechanics and interactive systems
-- Exploring environment design and game development workflows
+**Unreal Engine & Roblox Studio**
+- Exploring gameplay mechanics and interactive experiences
+- Experimenting with game development and prototyping
+- Practicing 3D modeling and animation with Blender
 
-**3D Modeling & Animation**
-- Practicing modeling, rigging, and animation in Blender
-
-*Check out my repositories for more projects and experiments.*
+*Explore my repositories for project details, code, and experiments.*
 
 ---
 
-## 📚 Currently
+## 📚 Background
 
-- 🚀 Building my first portfolio website
-- ⚙️ Developing my DevOps skills through hands-on learning
-- 🎮 Exploring gameplay systems and 3D workflows
-- 💼 Looking for junior full-stack development opportunities, with an interest in game development too
+| Module | Estimated hours | Completed |
+|---|---:|---|
+| Coding Fundamentals — Java | 130 | June 2025 |
+| Application Development | 605 | March 2026 |
+| DevOps | 425 | September 2026 |
+| **Total** | **1,160** | **September 2026** |
+
+All mandatory projects across the three modules completed.
 
 ---
 

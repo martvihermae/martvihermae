@@ -1,71 +1,93 @@
 # Hi, I'm Mart 👋
 
-Full Stack Developer student at Kood Jõhvi (//kood) and hobbyist game developer focused on web applications and interactive systems.
+💻 Full-stack developer in training at Kood Jõhvi, with an interest in DevOps, backend systems, and game development.
+
+I enjoy building practical applications, exploring new technologies, and experimenting with interactive experiences using Unreal Engine.
+
+📍 Estonia | Open to junior developer opportunities in Estonia and remotely
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Studying Full Stack Development at Kood Jõhvi (DevOps specialization module)
-- 🎮 Passionate about game development (Unreal Engine + Blender)
-- 🌐 Interested in building full stack web applications and backend systems
-- 📍 Based in Estonia
+
+- 🎓 Studying Full-Stack Development at Kood Jõhvi, with a focus on DevOps
+- 🌐 Interested in full-stack web development, backend systems, and APIs
+- ⚙️ Exploring DevOps, containerization, automation, and monitoring
+- 🎮 Hobbyist game developer using Unreal Engine, Blender, and Roblox Studio
+- 🎓 Bachelor's degree in *Maamajanduslik ettevõtlus- ja finantsjuhtimine*
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
+**Frontend**
 - HTML, CSS, JavaScript
-- React (familiar)
+- React
 
-**Backend:**
+**Backend**
 - Java, Spring Boot
-- Node.js, Express
-- PHP (WordPress development)
+- Node.js, Express.js, Socket.IO
+- PHP, WordPress plugin development
 
-**Databases & APIs:**
-- SQL basics
+**Databases & APIs**
+- SQL
 - REST APIs
+- Payment API integration
 
-**Game Development:**
+**DevOps & Infrastructure**
+- Linux, Docker, Kubernetes
+- Ansible, Terraform, Argo CD
+- Jenkins, GitLab
+- Prometheus, Grafana, ELK Stack
+
+**Game Development & 3D**
 - Unreal Engine
 - Blender
+- Roblox Studio, Luau
 
-**Tools:**
+**Tools**
 - Git
-- Docker
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🌐 Web Development
-- **WordPress Booking Plugin (PHP)**
-  - Built a custom booking plugin in WordPress
-  - Integrated Maksekeskus payment API
-  - Focused on real-world business use case
 
-- **School Projects**
-  - REST APIs using Spring Boot and Node.js
-  - Database-backed applications (SQL)
+**WordPress Booking Plugin**
+- Developed a custom booking plugin using PHP and WordPress
+- Integrated the Maksekeskus payment API
+- Built around a practical business use case
+
+**Full-Stack School Projects**
+- Developed REST APIs using Spring Boot and Node.js
+- Built database-backed applications using SQL
+- Practiced backend architecture and application development
 
 ### 🎮 Game Development
-- Unreal Engine prototypes and experiments
-- Blender 3D modeling, rigging, animation
-- Gameplay systems and environment design practice
+
+**Unreal Engine Experiments**
+- Prototyping gameplay mechanics and interactive systems
+- Exploring environment design and game development workflows
+
+**3D Modeling & Animation**
+- Practicing modeling, rigging, and animation in Blender
+
+*Check out my repositories for more projects and experiments.*
 
 ---
 
-## 📈 Currently
-- Building my first portfolio website
-- Learning DevOps fundamentals at school
-- Working on game development projects in parallel
-- Looking for junior full stack or game dev opportunities in Estonia / remote
-- 
+## 📚 Currently
+
+- 🚀 Building my first portfolio website
+- ⚙️ Developing my DevOps skills through hands-on learning
+- 🎮 Exploring gameplay systems and 3D workflows
+- 💼 Looking for junior full-stack development opportunities, with an interest in game development too
+
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- Email: vihermae@gmail.com
-- GitHub: https://github.com/martvihermae
-- LinkedIn: https://www.linkedin.com/in/martvihermae/
+- 📧 Email: vihermae@gmail.com
+- 🐙 GitHub: [martvihermae](https://github.com/martvihermae)
+- 💼 LinkedIn: [martvihermae](https://www.linkedin.com/in/martvihermae/)

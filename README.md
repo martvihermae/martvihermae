@@ -1,8 +1,6 @@
 # Hi, I'm Mart 👋
 
-I'm a Kood Jõhvi alumnus with a background in full-stack development, Java, and DevOps. I enjoy building applications, solving technical problems, and exploring how software works — from backend systems and infrastructure automation to interactive game experiences.
-
-I'm open to opportunities across **software development, DevOps, and game development**, particularly with Unreal Engine or Roblox Studio.
+I enjoy building applications, solving technical problems and exploring how software works.
 
 📍 Estonia | Open to local and remote opportunities
 
@@ -10,50 +8,46 @@ I'm open to opportunities across **software development, DevOps, and game develo
 
 ## 🧑‍💻 About Me
 
-- 🎓 Kood Jõhvi alumnus — completed Java, Application Development, and DevOps modules
-- 🌐 Interested in full-stack development, backend systems, and API development
-- ⚙️ Experienced through hands-on projects with containerization, CI/CD, infrastructure automation, and monitoring
-- 🎮 Passionate about game development with Unreal Engine and Roblox Studio
-- 🧊 Interested in interactive systems, gameplay mechanics, and 3D workflows using Blender
-- 🎓 Bachelor's degree in *Maamajanduslik ettevõtlus- ja finantsjuhtimine*
-- 💼 Open to junior and entry-level opportunities in software development, DevOps, and game development
+- 🎓 //kood alumnus — completed Java, Application Development, and DevOps modules
+- 🎓 Bachelor's Degree in Business Economics and Financial Management (Estonian University of Life Sciences)
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-- Java, JavaScript, TypeScript, PHP, SQL, Luau
-
+- JavaScript, Java, PHP, SQL, HTML, CSS
+- A little experience in Python, TypeScript
+  
 **Frontend & Backend**
-- React, HTML, CSS
-- Node.js, Express.js, Socket.IO
-- Spring Boot
-- REST APIs, GraphQL
+- Node.js, Express, Socket.IO
+- Spring Boot, REST APIs
+- React, Three.js, PixiJS
+- A little experience with GraphQL
 
 **DevOps & Infrastructure**
-- Linux, Docker, Kubernetes
-- Ansible, Terraform
-- Argo CD, Helm
+- Basic bash and powershell skills
+- Git
+- Ubuntu Server, NGINX
+- Docker, Docker Compose
+- Ansible, Terraform, Vagrant
+- Kubernetes, Argo CD, Helm
 - Jenkins, GitLab CI/CD
 - Prometheus, Grafana, ELK Stack
 
 **Databases & Development**
-- Relational databases and SQL
-- Authentication and real-time communication
-- Automated testing and API integration
+- SQL for database design and queries
+- Understanding of relational databases
+- Experience with PostgreSQL, SQLite
 
-**Game Development & 3D**
+**Game Development**
 - Unreal Engine
-- Roblox Studio
-- Blender — modeling, rigging, and animation
-
-**Tools**
-- Git
-
+- Blender
+- Roblox Studio, Luau
+  
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🌐 Web & Application Development
 
@@ -69,7 +63,7 @@ I'm open to opportunities across **software development, DevOps, and game develo
 
 ### ⚙️ DevOps & Infrastructure
 
-**DevOps Projects — Kood Jõhvi**
+**DevOps Projects — //kood**
 - Practiced infrastructure automation and configuration management
 - Worked with Docker and Kubernetes for containerization and orchestration
 - Explored CI/CD pipelines, monitoring, logging, and GitOps workflows
@@ -82,23 +76,7 @@ I'm open to opportunities across **software development, DevOps, and game develo
 - Experimenting with game development and prototyping
 - Practicing 3D modeling and animation with Blender
 
-*Explore my repositories for project details, code, and experiments.*
-
 ---
-
-## 📚 Background
-
-| Module | Estimated hours | Completed |
-|---|---:|---|
-| Coding Fundamentals — Java | 130 | June 2025 |
-| Application Development | 605 | March 2026 |
-| DevOps | 425 | September 2026 |
-| **Total** | **1,160** | **September 2026** |
-
-All mandatory projects across the three modules completed.
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: vihermae@gmail.com
